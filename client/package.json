@@ -1,7 +1,7 @@
 {
   "name": "client",
   "version": "0.1.0",
-  "homepage": "https://Carryl21.github.io/Carryl21/CMSC128C",
+  "homepage": "https://Carryl21.github.io/",
   "private": true,
   "dependencies": {
     "@chakra-ui/react": "^1.8.6",
